@@ -1,0 +1,22 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "folder2sql": "node folder2sql.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "html-entities": "^2.5.2",
+    "piscina": "^4.4.0",
+    "sql-lint": "^1.0.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
